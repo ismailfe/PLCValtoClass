@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLCValtoClass", "PLCValtoClass\PLCValtoClass.csproj", "{0A9E06E5-31F5-4511-B4F2-87E712D7EB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9E06E5-31F5-4511-B4F2-87E712D7EB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9E06E5-31F5-4511-B4F2-87E712D7EB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9E06E5-31F5-4511-B4F2-87E712D7EB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9E06E5-31F5-4511-B4F2-87E712D7EB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3C643C-8231-4096-AD93-2CF7832B5C89}
+	EndGlobalSection
+EndGlobal
